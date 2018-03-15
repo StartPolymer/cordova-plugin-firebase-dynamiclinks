@@ -45,8 +45,6 @@
 
         <source-file src="src/android/FirebaseDynamicLinksPlugin.java" target-dir="src/by/chemerisuk/cordova/firebase" />
 
-        <dependency id="cordova-support-google-services" version="~1.1.0"/>
-
         <framework src="com.google.firebase:firebase-dynamic-links:$FIREBASE_VERSION" />
     </platform>
 
